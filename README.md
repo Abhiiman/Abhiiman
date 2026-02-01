@@ -72,6 +72,7 @@
 - 🤝 Open to **academic & beginner-friendly projects**
 - 💬 Ask me about **Python, logic, or student projects**
 - 🌐 GitHub: https://github.com/Abhiman
+- 📉https://www.instagram.com/_______.abhii._/
 
 ---
 
