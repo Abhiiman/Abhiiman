@@ -26,7 +26,7 @@
 </p>
 
 <p align="center">
-  <a href="[https://www.linkedin.com/feed/" target="_blank](https://www.linkedin.com/in/shakya-abhiman-38a490347/)">
+  <a href="https://www.linkedin.com/in/shakya-abhiman-38a490347/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" />
   </a>
   &nbsp;&nbsp;
