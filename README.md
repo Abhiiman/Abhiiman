@@ -1,4 +1,4 @@
-<h1 align="center">🎮 J.S Shakya Abhiman 🎮</h1>
+<h1 align="center">J.S Shakya Abhiman </h1>
 <h3 align="center">Aspiring Software Engineer | Student @ NSBM</h3>
 
 <p align="center">
