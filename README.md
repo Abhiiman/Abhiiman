@@ -12,7 +12,7 @@
 
 ---
 
-## 👤 About Me
+## 👤 About Him
 🎓 Undergraduate at **NSBM Green University**  
 💻 Aspiring **Software Engineer**  
 🧠 Strong interest in **problem-solving, logic, and software design**  
@@ -59,20 +59,7 @@
 
 ---
 
-## 📊 GitHub Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhiman&show_icons=true&theme=transparent&hide_border=true" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Abhiman&theme=transparent&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhiman&theme=github-compact&hide_border=true" />
-</p>
-
----
 
 ## 🤝 Collaboration
 - Open to **academic, learning, and entry-level projects**
